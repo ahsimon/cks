@@ -1,8 +1,13 @@
 # Certified Kubernetes Security Specialists (CKS) 
 
-This repo contains my personal notes, online resources, and references for each topic of the Certified Kubernetes Security Specialist(CKS) exam
+This repo contains all my personal notes, online resources, and references for each topic of the Certified Kubernetes Security Specialist(CKS) exam
 
+## Motivation 
  
+ * Prep for the Kubernetes Security Specialist (CKS) exam
+ * Keep learning and aware of the progress
+ * Maintain a single and simplified source for all resources
+  
 
 ## Cluster Setup (10%)
 
@@ -49,7 +54,7 @@ Protect node metadata and endpoints
 
 * Implement pod to pod encryption by use of mTLS
 
-## Supply Chain Security20%
+## Supply Chain Security 20%
 
 * Minimize base image footprint
 
